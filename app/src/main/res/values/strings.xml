@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">First App</string>
+    <string name="my_first_app">My first application</string>
+    <string name="enter">enter</string>
+    <string name="secondText">Estás en la segunda pantalla</string>
+    <string name="off">Off</string>
+    <string name="on">On</string>
+</resources>
